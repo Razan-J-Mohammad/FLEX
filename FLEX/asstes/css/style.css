@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans:wght@100;300;400&family=Dancing+Script:wght@400;500&family=Dosis:wght@200;300;400;500&family=Lumanosimo&family=Open+Sans:ital,wght@0,300;1,400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans:wght@100;300;400&family=Dancing+Script:wght@400;500&family=Dosis:wght@200;300;400;500&family=Lumanosimo&family=Open+Sans:ital,wght@0,300;1,400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans:wght@100;300;400&family=Dancing+Script:wght@400;500&family=Lumanosimo&family=Open+Sans:ital,wght@0,300;1,400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@100&display=swap');
+.head .navbar{
+    background-color: #3d3d3d !important;
+    color: #b3b3b3;;
+}
+.header .navbar{
+    background-color: #333 !important;
+
+}
+.header .navbar-nav a{
+    color:white;
+}
+.carousel-item{
+    position: relative;
+}
+.contnt{
+    position: absolute;
+    top: 100px;
+    left: 140px;
+
+}
+.contnt h1{
+    font-family: Raleway, sans-serif;
+    color: #f35d4b;
+    font-weight: 200;
+    font-size: 60px;
+  
+}
+.contnt p{
+    font-size: 20px;
+    line-height: 1.8;
+    color: #DEDEDE;
+    text-shadow: 1px 2px 5px #222;
+    font-family: Open Sans, sans-serif;
+}
+.bottome a{
+    text-decoration: none;
+    color: white;
+   border :1px solid white;
+   padding: 10px;
+   border-radius: 5px;
+  
+   
+}
+.bottome {
+    position: absolute;
+    top: 450px;
+    left: 140px;
+    bottom: 0px;
+  
+}
+.bottome a i{
+    color: #f35d4b;   
+}
+.bottome a:hover{
+    
+    color: #fff;
+    background-color: rgba(255,255,255,0.15);
+}
+.flix{
+    position: absolute;
+    top:100px;
+    margin: auto;
+    left: 250px;
+ text-align: center;
+ color: wheat;
+}
+.flix h1{
+    font-family: Raleway, sans-serif;
+    color: #fff;
+    font-size:70px ;
+    text-align: center;
+    text-shadow: 2px 3px 14px #222;
+}
+.flix p{
+    font-size: 28px;
+    line-height: 1.6;
+    text-align: right;
+    color: #d9d9d9;
+    text-shadow: 1px 2px 4px rgba(0,0,0,.2);
+    border-right: 1px solid rgba(255,255,255,.5);
+    padding: 3px 35px 5px 0;
+    
+}
+
+.bott a {
+    border: 1px solid rgba(255,255,255,.5);
+    padding: 10px;
+    border-radius: 5px; 
+   color:white !important;
+}
+.bott{
+    position: absolute;
+    top:370px;
+    margin-right: 10px;
+    left: 1070px;
+
+}
+.par{
+    position: absolute;
+    left: 90px;
+}
+.bott a:hover{
+    color: #fff;
+    background-color: rgba(255,255,255,0.15);
+   
+}
+.Drag{
+    position: absolute;
+    top:100px;
+    left:200px;
+    color: white;
+}
+.Drag h2{
+    font-size: 450%;
+    line-height: 1.5;
+    color: #fff;
+    border-bottom: 1px solid rgba(255,255,255,.5);
+
+    font-family: Raleway, sans-serif;
+
+}
+.Drag p{
+    font-family: Open Sans, sans-serif;
+    font-size: 25px !important;
+    font-weight: normal;
+ 
+}
+.carousel-item .imge{
+    width: 370px;
+}
+.imge{
+    position: absolute;
+    top:76px;
+    left: 170px;
+}
+.iphon{
+ position: absolute;
+ top :100px;
+ left: 600px;
+}
+.iphon h3{
+    margin-top: 15px;
+    font-family: Raleway, sans-serif;
+    color: #1a1a1a;
+    font-size: 60px;
+    font-weight: normal;
+    border-bottom: 1px solid  rgba(255,255,255,.5);
+
+}
+.iphon p{
+    font-family: Open Sans, sans-serif;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 1.7;
+    margin-top: 30px;
+}
+.action {
+    position: absolute;
+    top: 500px;
+    left: 600px;
+
+}
+.action a{
+    text-decoration: none;
+    color:black;
+    border: 1px solid  #f35d4b; 
+    border-radius: 7px;
+    margin-right: 10px;
+    font-size: 20px;
+    line-height: 1.5;
+    padding: 14px 50px 15px;
+    font-family: Open Sans, sans-serif;
+    font-weight:bold;
+
+}
+.action .down{
+    background-color: #f35d4b;
+    color: white;
+    
+}
+.action .down:hover{
+    border-color: #ca230e;
+    background-color: #f03720;
+}
+
+.action .devlp{
+    border-color: #4d4d4d;
+    background-color: rgba(51,51,51,0.72);
+    color: white;
+    
+}
+
+.action .devlp:hover{
+    color: #eee;
+    border-color: #333;
+    background-color: #424242;
+    background-color: rgba(51,51,51,0.87);
+    
+  
+    
+}
+.action .lap:hover{
+    background-color: rgba(255,255,255,0.95);
+    border-color: #f14833;
+    color: #f14833;
+    
+}
+
+
+
+.action .lap{
+    background-color: rgba(255,255,255,0.75);
+    border-color: #666666;
+    color: #666666;
+    
+}
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: -40px;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-right: 15%;
+    margin-bottom: 1rem;
+    margin-left: 15%;
+}
+.carousel-indicators .active {
+    background-color:#ca230e;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 1px solid #ca230e;
+}
+
+
